@@ -11,13 +11,13 @@ The following analysis aims to show the length of time that bikes are checked ou
 - D2: Create Visualizations for the Trip Analysis
 - D3: Create a Story and Report for the Final Presentation
 
-The following dashboard presents a summary of the Number of Rides, Type of Users distribution and the August Peak Hours per Gender.
-
-![NYC CitiBike Dashboard](/__Resources/NYCCitiBikeDashboard.jpg)
-
 Furthermore, a story was created to gather all the Dashboards and Worksheets produced during the analysis of this Challenge:
 
 ![NYC CitiBike Story](/__Resources/TableauNYCCitiBikeStory.gif)
+
+The following dashboard (included as introduction in the story presented above) shows a summary of the Number of Rides, Type of Users distribution and the August Peak Hours per Gender.
+
+![NYC CitiBike Dashboard](/__Resources/NYCCitiBikeDashboard.jpg)
 
 # Resources:
  
