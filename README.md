@@ -15,11 +15,15 @@ The following dashboard presents a summary of the Number of Rides, Type of Users
 
 ![NYC CitiBike Dashboard](/__Resources/NYCCitiBikeDashboard.jpg)
 
+Furthermore, a story was created to gather all the Dashboards and Worksheets produced during the analysis of this Challenge:
+
+![NYC CitiBike Story](/__Resources/TableauNYCCitiBikeStory.gif)
+
 # Resources:
  
   **Data source** Large csv files have been used in this analyses and are not available in the repo. 
 
-  **Software** Pandas, Tableau, Jupyter Notebook, Excel.
+  **Software** Pandas, Tableau Desktop, Jupyter Notebook, Excel.
 
 # Results:
 
