@@ -5,7 +5,7 @@ Module 14: NY Citibike with Tableau
 
 The following analysis aims to show the length of time that bikes are checked out for all riders and genders, to show the number of bike trips for all riders and genders for each hour of each day of the week and to show the number of bike trips for each type of user and gender for each day of the week.
 
-3 parts are accomplished:
+3 parts are accomplished and can be explored following this [link]( https://public.tableau.com/app/profile/juanita.camargo/viz/JC_bikesharing_challenge/NYCCitiBikeStory?publish=yes):
 
 - D1: Change Trip Duration to a Datetime Format
 - D2: Create Visualizations for the Trip Analysis
